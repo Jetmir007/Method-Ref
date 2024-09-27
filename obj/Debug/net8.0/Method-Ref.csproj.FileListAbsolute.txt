@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\Method-Ref\obj\Debug\net8.0\Method-Ref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Method-Ref\obj\Debug\net8.0\Method-Ref.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Method-Ref\obj\Debug\net8.0\Method-Ref.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Method-Ref\obj\Debug\net8.0\Method-Ref.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Method-Ref\bin\Debug\net8.0\Method-Ref.exe
+C:\Users\Admin\Documents\GitHub\Method-Ref\bin\Debug\net8.0\Method-Ref.deps.json
+C:\Users\Admin\Documents\GitHub\Method-Ref\bin\Debug\net8.0\Method-Ref.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Method-Ref\bin\Debug\net8.0\Method-Ref.dll
+C:\Users\Admin\Documents\GitHub\Method-Ref\bin\Debug\net8.0\Method-Ref.pdb
+C:\Users\Admin\Documents\GitHub\Method-Ref\obj\Debug\net8.0\Method-Ref.dll
+C:\Users\Admin\Documents\GitHub\Method-Ref\obj\Debug\net8.0\refint\Method-Ref.dll
+C:\Users\Admin\Documents\GitHub\Method-Ref\obj\Debug\net8.0\Method-Ref.pdb
+C:\Users\Admin\Documents\GitHub\Method-Ref\obj\Debug\net8.0\Method-Ref.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\Method-Ref\obj\Debug\net8.0\ref\Method-Ref.dll
